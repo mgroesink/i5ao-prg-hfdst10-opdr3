@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bank2.BankAccount">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEAAI=</HashCode>
+      <FileName>BankAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank2.BalanceTooLowException">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BalanceTooLowException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Exception" Collapsed="true">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
