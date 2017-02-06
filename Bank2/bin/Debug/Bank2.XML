@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bank2</name>
+    </assembly>
+    <members>
+        <member name="T:Bank2.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:Bank2.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:Bank2.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:Bank2.BankAccount">
+            <summary>
+            The bankaccount for a customer
+            </summary>
+        </member>
+        <member name="F:Bank2.BankAccount.currentBalance">
+            <summary>
+            The current balance
+            </summary>
+        </member>
+        <member name="M:Bank2.BankAccount.#ctor(System.Double)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Bank2.BankAccount"/> class.
+            </summary>
+            <param name="start">The opening balance.</param>
+        </member>
+        <member name="P:Bank2.BankAccount.CurrentBalance">
+            <summary>
+            Gets the current balance.
+            </summary>
+            <value>
+            The current balance.
+            </value>
+        </member>
+        <member name="M:Bank2.BankAccount.IncreaseBalance(System.Double)">
+            <summary>
+            Increases the balance.
+            </summary>
+            <param name="deposit">The deposit.</param>
+        </member>
+        <member name="M:Bank2.BankAccount.DecreaseBalance(System.Double)">
+            <summary>
+            Decreases the balance.
+            </summary>
+            <param name="withdrawal">The withdrawal.</param>
+        </member>
+        <member name="T:Bank2.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:Bank2.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Bank2.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Bank2.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Bank2.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

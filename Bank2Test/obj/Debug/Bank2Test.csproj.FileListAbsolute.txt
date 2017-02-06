@@ -1,0 +1,10 @@
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2Test\bin\Debug\Bank2Test.dll
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2Test\bin\Debug\Bank2Test.pdb
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2Test\bin\Debug\Bank2.exe
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2Test\bin\Debug\Bank2.pdb
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2Test\obj\Debug\Bank2Test.csprojResolveAssemblyReference.cache
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2Test\obj\Debug\Bank2Test.dll
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2Test\obj\Debug\Bank2Test.pdb
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2Test\bin\Debug\Bank2.xml

@@ -1,0 +1,15 @@
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2\bin\Debug\Bank2.exe.config
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2\bin\Debug\Bank2.exe
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2\bin\Debug\Bank2.pdb
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2\obj\Debug\Bank2.csprojResolveAssemblyReference.cache
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2\obj\Debug\MainWindow.g.cs
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2\obj\Debug\App.g.cs
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2\obj\Debug\Bank2_MarkupCompile.cache
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2\obj\Debug\Bank2_MarkupCompile.lref
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2\obj\Debug\MainWindow.baml
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2\obj\Debug\Bank2.g.resources
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2\obj\Debug\Bank2.Properties.Resources.resources
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2\obj\Debug\Bank2.csproj.GenerateResource.Cache
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2\obj\Debug\Bank2.exe
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2\obj\Debug\Bank2.pdb
+C:\Users\mgroe_000\Documents\Visual Studio 2015\Projects\Bank2\Bank2\bin\Debug\Bank2.XML

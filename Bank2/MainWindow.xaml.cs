@@ -51,7 +51,7 @@ namespace Bank2
                 double money = 0;
                 if(!double.TryParse(textBox.Text , out money))
                 {
-                    MessageBox.Show("Ongeldig bedrag");
+                    MessageBox.Show("Ongeldig bedrag (alleen cijfers zijn toegestaan)");
                     return;
                 }
                 if (money > 0)
